@@ -106,6 +106,10 @@ hr{
 .section {
     padding: 2rem;
 }
+.sectione{
+    padding: 0rem;
+    
+}
 .footer
 {
     background-color: var(--primary-color);
