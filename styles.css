@@ -20,6 +20,7 @@ body {
 .container-center{
     max-width:600px;
     margin:auto;
+    padding-bottom: 1rem;
 }
 
 .link{
