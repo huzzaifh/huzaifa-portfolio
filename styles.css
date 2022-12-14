@@ -18,7 +18,7 @@ body {
 
 
 .container-center{
-    max-width:55rem;
+    max: width 20rem;
     margin:auto;
 }
 
